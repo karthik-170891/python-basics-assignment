@@ -1,11 +1,14 @@
+#Task 1
 name = "Karthik"
 age = 35
 height = 6.1
 is_student = True
 print(name, age, height, is_student)
 
+#Task 2
 print("Name:", name, "|", "Age:", age, "|", "Height:", height, "|", "Student:", is_student)
 
+#Task 3
 age_in_months = age * 12
 age_in_days = age * 365
 age_mod_7 = age % 7
